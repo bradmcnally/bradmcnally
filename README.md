@@ -8,19 +8,19 @@ I’m a designer who enjoys making small tools, games, and experiments.
 
 A tiny handheld pixel-art sketchbook for the M5Stack Cardputer.
 
-![BitMap16 DX drawing](https://raw.githubusercontent.com/bradmcnally/bitmap16dx/main/img/zoom.png)
+<img src="https://raw.githubusercontent.com/bradmcnally/bitmap16dx/main/img/zoom.png" alt="BitMap16 DX drawing" width="600">
 
 ### [beepBot DX](https://github.com/bradmcnally/beepbotdx)
 
 A pocket sampler and sequencer for making music from everyday sounds.
 
-![beepBot DX sequencer](https://raw.githubusercontent.com/bradmcnally/beepbotdx/main/assets/sequencer.png)
+<img src="https://raw.githubusercontent.com/bradmcnally/beepbotdx/main/assets/sequencer.png" alt="beepBot DX sequencer" width="600">
 
 ### [Slow Draw](https://github.com/bradmcnally/slowdraw)
 
 An e-ink art experiment that makes something new each hour or day.
 
-![A generated Slow Draw composition](https://raw.githubusercontent.com/bradmcnally/slowdraw/main/examples/slow-draw-001.png)
+<img src="https://raw.githubusercontent.com/bradmcnally/slowdraw/main/examples/slow-draw-001.png" alt="A generated Slow Draw composition" width="600">
 
 ### nono atlas · Coming soon
 
